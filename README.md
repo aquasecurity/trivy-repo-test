@@ -1,2 +1,2 @@
-# rust-app
-Testing project for Trivy
+# Test Repository
+Testing project for Trivy, used in tests
